@@ -4,6 +4,7 @@
 using namespace std; 
   
 // Function to swap numbers 
+//By use of pointers
 void swap(int* a, int* b) 
 { 
     int temp = *a; 
